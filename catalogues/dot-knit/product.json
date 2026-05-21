@@ -1,0 +1,38 @@
+{
+  "id": "d54e9502-e1f7-40d4-8d7b-74b41f09f994",
+  "name": "dot knit",
+  "gsm": "160-170",
+  "moq": "300",
+  "width": "42\"-46\"",
+  "composition": "this and that",
+  "specialty": "very special",
+  "useCases": "no use cases",
+  "description": "no description neede",
+  "colors": "transperent",
+  "tags": "",
+  "seoTitle": "",
+  "seoDescription": "",
+  "slug": "dot-knit",
+  "template": "minimal",
+  "images": [
+    {
+      "fileName": "9d30982a-462c-47c1-b2b6-3c8bb1905139-0aca6836-3021-4984-a9e5-898caf0e5a41.jpg",
+      "name": "0aca6836-3021-4984-a9e5-898caf0e5a41.jpg"
+    },
+    {
+      "fileName": "ff240757-289d-4a3a-a4e5-7283037c19d0-MAROON-1.jpg",
+      "name": "MAROON 1.jpg"
+    },
+    {
+      "fileName": "1a81fb2c-f7f4-42bb-97da-75abdf7c345c-ROYAL-1.jpg",
+      "name": "ROYAL 1.jpg"
+    },
+    {
+      "fileName": "4c4737ba-e02c-460c-b5d0-c604970a807a-YELLOW-1.jpg",
+      "name": "YELLOW 1.jpg"
+    }
+  ],
+  "status": "draft",
+  "publishedUrl": "",
+  "updatedAt": "2026-05-21T14:27:18.585Z"
+}
