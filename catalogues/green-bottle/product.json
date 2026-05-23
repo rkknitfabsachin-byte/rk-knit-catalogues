@@ -1,0 +1,34 @@
+{
+  "id": "3351ae76-524e-4d5a-b953-03d6b1cb1dbe",
+  "name": "Green bottle",
+  "gsm": "Iska gsm nahi hota",
+  "moq": "1",
+  "width": "Hoga 4-5 inch",
+  "composition": "Plastic,metal etc",
+  "specialty": "Holds water",
+  "useCases": "Hold water for drinking ",
+  "description": "Bottle that is green in colour",
+  "colors": "Green",
+  "tags": "",
+  "seoTitle": "",
+  "seoDescription": "",
+  "slug": "green-bottle",
+  "template": "corporate",
+  "images": [
+    {
+      "fileName": "c9e2cef0-04fb-472c-afaf-5bc918605721-41642.jpg",
+      "name": "41642.jpg"
+    },
+    {
+      "fileName": "6ec6bd55-067e-45b3-af65-49911cc2d265-41641.jpg",
+      "name": "41641.jpg"
+    },
+    {
+      "fileName": "5f046286-cd17-41da-9e13-a7445ed8fbb9-41643.jpg",
+      "name": "41643.jpg"
+    }
+  ],
+  "status": "draft",
+  "publishedUrl": "",
+  "updatedAt": "2026-05-23T12:02:52.638Z"
+}
