@@ -1,0 +1,34 @@
+{
+  "id": "6cd2dec6-cf0f-4c52-bfd4-db917403f773",
+  "name": "Calculator ",
+  "gsm": "",
+  "moq": "1",
+  "width": "",
+  "composition": "",
+  "specialty": "",
+  "useCases": "",
+  "description": "Black calculator ",
+  "colors": "",
+  "tags": "",
+  "seoTitle": "",
+  "seoDescription": "",
+  "slug": "calculator",
+  "template": "industrial",
+  "images": [
+    {
+      "fileName": "2d26bb7a-8dbc-4504-9dd1-3c0787ae8809-43189.jpg",
+      "name": "43189.jpg"
+    },
+    {
+      "fileName": "142394d0-112c-4458-b292-d8171bce88c0-43190.jpg",
+      "name": "43190.jpg"
+    },
+    {
+      "fileName": "4558945c-c092-4ecb-a409-33cfaba018d1-43191.jpg",
+      "name": "43191.jpg"
+    }
+  ],
+  "status": "draft",
+  "publishedUrl": "",
+  "updatedAt": "2026-05-27T13:10:44.959Z"
+}
